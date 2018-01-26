@@ -1,0 +1,6 @@
+﻿  gameMovement.c
+\\psf\google drive\dnet2\year3\semester5\c programming\assignment\a01(1)\gamemovement.c(77): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+\\psf\google drive\dnet2\year3\semester5\c programming\assignment\a01(1)\gamemovement.c(78): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+\\psf\google drive\dnet2\year3\semester5\c programming\assignment\a01(1)\gamemovement.c(210): warning C4013: 'display_game_status' undefined; assuming extern returning int
+  ASS1.vcxproj -> \\psf\Google Drive\Dnet2\Year3\Semester5\C Programming\Assignment\A01(1)\ASS1\Debug\ASS1.exe
+  ASS1.vcxproj -> \\psf\Google Drive\Dnet2\Year3\Semester5\C Programming\Assignment\A01(1)\ASS1\Debug\ASS1.pdb (Partial PDB)
